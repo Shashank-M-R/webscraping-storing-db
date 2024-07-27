@@ -1,0 +1,5 @@
+fastapi
+pandas
+bs4
+tqdm
+requests
